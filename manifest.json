@@ -1,7 +1,7 @@
 {
-    "name" : "daily-cat",
+    "name" : "daily-cha",
     "version" : "1.0",
-    "description" : "A daily cat picture",
+    "description" : "A daily dose of eun-woo",
     "manifest_version" : 2,
     "browser_action" : {
         "default_icon" : "logo.png",
